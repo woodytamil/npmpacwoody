@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "./dist/index.js",
-  "module": "./dist/index.mjs", 
+  "module": "./dist/index.mjs",
   "scripts": {
     "dev": "vitest",
     "test": "vitest run",
